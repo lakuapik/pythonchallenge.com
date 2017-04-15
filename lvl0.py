@@ -8,7 +8,7 @@
 '''
 
 '''
-    clue: diberikan gambar monitor dengan anka 2 pangkat 38
+    clue: diberikan gambar monitor dengan angka 2 pangkat 38
     tugas: hasilnya berapa?
 '''
 
@@ -16,8 +16,8 @@ result = pow(2, 38)
 result = 2 ** 38
 
 '''
-    Kenapa angka 38?
-    Karena angka 38 kalau di bahasa java / c sudah menunjukkan longInteger,
+    Kenapa pangkat 38?
+    Karena hasil pangkat 38 kalau di bahasa java / c sudah menunjukkan longInteger,
     sedangkan di python tidak ada longInteger, bingInteger, dsb.
     Di python hanya ada satu type Integer: <class int>
 
