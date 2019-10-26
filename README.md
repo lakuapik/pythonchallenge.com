@@ -12,4 +12,6 @@ pythonchallenge.com adalah sebuah website dimana kita diberi tantangan teka teki
 * Level 3  
   http://pythonchallenge.com/pc/def/equality.html
 * Level 4  
-  http://pythonchallenge.com/pc/def/linkedlist.html
+  http://pythonchallenge.com/pc/def/linkedlist.php
+* Level 5  
+  http://pythonchallenge.com/pc/def/peak.html
