@@ -17,3 +17,5 @@ pythonchallenge.com adalah sebuah website dimana kita diberi tantangan teka teki
   http://pythonchallenge.com/pc/def/peak.html
 * Level 6
   http://pythonchallenge.com/pc/def/channel.html
+* Level 7
+  http://pythonchallenge.com/pc/def/hockey.html
