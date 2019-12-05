@@ -9,8 +9,6 @@ from zipfile import ZipFile
         ada judul halaman: `now there are pairs`
         ketika di lihat source kode htmlnya
         ada tulisan: `<!-- <-- zip -->`
-
-    *pastikan konek internet untuk eksekusi file python ini
 '''
 
 '''

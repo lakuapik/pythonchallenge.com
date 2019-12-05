@@ -15,7 +15,9 @@ pythonchallenge.com adalah sebuah website dimana kita diberi tantangan teka teki
   http://pythonchallenge.com/pc/def/linkedlist.php
 * Level 5  
   http://pythonchallenge.com/pc/def/peak.html
-* Level 6
+* Level 6  
   http://pythonchallenge.com/pc/def/channel.html
-* Level 7
+* Level 7  
   http://pythonchallenge.com/pc/def/hockey.html
+* Level 8  
+  http://pythonchallenge.com/pc/def/integrity.html
