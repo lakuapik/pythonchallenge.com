@@ -21,3 +21,6 @@ pythonchallenge.com adalah sebuah website dimana kita diberi tantangan teka teki
   http://pythonchallenge.com/pc/def/hockey.html
 * Level 8  
   http://pythonchallenge.com/pc/def/integrity.html
+* Level 9  
+  http://www.pythonchallenge.com/pc/return/good.html  
+  user: huge, password: file
